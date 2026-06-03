@@ -37,3 +37,20 @@ This dashboard helps healthcare organizations:
 - Identify high-performing departments and procedures.
 - Evaluate patient service utilization patterns.
 - Support operational and financial decision-making through actionable insights.
+## 🎯 Key Insights
+- Compare billing performance across healthcare departments.
+- Analyze procedure-level revenue contributions.
+- Track treatment and medication costs.
+- Evaluate insurance coverage effectiveness.
+- Understand patient spending and out-of-pocket expenses.
+- Identify healthcare demand patterns across geographic locations.
+## 🚀 Future Enhancements
+- Predictive healthcare cost forecasting.
+- Patient trend analysis using advanced analytics.
+- Real-time data integration.
+- Additional drill-through reporting capabilities.
+## 👤 Author
+- Anisha Raju Vachavaya
+- Data Analyst | Data Engineer | Power BI Developer
+- Skills Demonstrated
+- Power BI • DAX • Power Query • Data Modeling • Data Visualization • Business Intelligence • Interactive Reporting • Dashboard Design
